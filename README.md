@@ -1,6 +1,6 @@
 # Conuter App : 
 
-This is an app you can count by pressing the button
+The Counter app is a simple and versatile tool designed to help users keep track of counts for various activities and items also there is a two buttons which are decrement and reset might be helpful
 
 ## This App Created By :
 * Name : Omar Abdullah Saeed 
