@@ -1,4 +1,4 @@
-# conuter
+# Conuter App : 
 
 This is an app you can count by pressing the button
 
