@@ -1,1 +1,7 @@
+# Force GitHub to recognize Dart as the primary language
 *.dart linguist-language=Dart
+
+# If you have other languages that should be recognized, specify them too
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.js linguist-language=JavaScript
